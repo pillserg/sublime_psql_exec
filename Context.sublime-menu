@@ -1,0 +1,62 @@
+[
+    {
+        "id": "psql_exec_menu",
+        "caption": "PSQL-EXEC",
+        "children": [
+            {
+                "caption": "uaprom2",
+                "command": "psql_exec",
+                "args": {"dbname": "uaprom2"}
+            },
+            {
+                "caption": "-"
+            },
+            {
+                "caption": "uaprom",
+                "command": "psql_exec",
+                "args": {"dbname": "uaprom"}
+            },
+            {
+                "caption": "ruprom",
+                "command": "psql_exec",
+                "args": {"dbname": "ruprom"}
+            },
+            {
+                "caption": "belprom",
+                "command": "psql_exec",
+                "args": {"dbname": "belprom"}
+            },
+            {
+                "caption": "kazprom",
+                "command": "psql_exec",
+                "args": {"dbname": "kazprom"}
+            },
+            {
+                "caption": "mdprom",
+                "command": "psql_exec",
+                "args": {"dbname": "mdprom"}
+            },
+            {
+                "caption": "ruprom2",
+                "command": "psql_exec",
+                "args": {"dbname": "ruprom2"}
+            },
+            {
+                "caption": "belprom2",
+                "command": "psql_exec",
+                "args": {"dbname": "belprom2"}
+            },
+            {
+                "caption": "kazprom2",
+                "command": "psql_exec",
+                "args": {"dbname": "kazprom2"}
+            },
+            {
+                "caption": "mdprom2",
+                "command": "psql_exec",
+                "args": {"dbname": "mdprom2"}
+            }
+
+        ]
+    }
+]
